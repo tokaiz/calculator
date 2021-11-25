@@ -1,1 +1,2 @@
-# calculator
+# demo preview
+![demo](media/calculator.gif)
